@@ -7,3 +7,6 @@ Spencer Schien [@Pecners](https://github.com/Pecners)
 
 ![California Population Density 2022 Rayshader](https://github.com/gsaluja-og/map_visualizations/blob/main/California_Population_Density_3D_rayshader/California_Population_Density_2022_small.png?raw=true)
 
+3. San Diego Green Spaces - Created in R using ggplot and open street map data
+
+![San Diego Green Spaces ggplot](https://github.com/gsaluja-og/map_visualizations/blob/main/San_Diego_Green_Spaces/San_Diego_Green_Spaces.png?raw=true)
